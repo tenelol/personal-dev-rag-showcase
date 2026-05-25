@@ -12,7 +12,7 @@
 
 - Add a Qdrant-backed implementation behind the same store interface.
 - Add tests for exclusion rules, chunking, and deterministic search.
-- Add CI that runs the demo commands.
+- Add CI secret scanning in addition to the demo command workflow.
 - Add generated screenshots of search and context pack output.
 
 ## Medium Term
